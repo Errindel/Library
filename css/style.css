@@ -1,0 +1,26 @@
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th, td{
+    border: 1px solid black;
+    width: 25%;
+}
+
+td.delete {
+    text-align: center;
+    background-color: red;
+}
+
+td.book-name {
+    background-color: greenyellow;
+}
+div.book-info {
+    display: none;
+}
+
+label {
+  display: block;
+}
